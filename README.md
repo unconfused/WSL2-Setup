@@ -68,3 +68,12 @@ Install a specific distribution
 Shutdown all running WSL distros
 
     wsl --shutdown
+
+Update WSL
+
+    wsl --update
+
+Show WSL Defaults
+
+    wsl --status
+    
